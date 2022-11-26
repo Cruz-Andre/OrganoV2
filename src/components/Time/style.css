@@ -1,0 +1,31 @@
+.time {
+    text-align: center;
+    padding: 32px;
+    position: relative;
+    background-image: url('../../../public/imagens/fundo.png');
+}
+
+.time h3 {
+    font-size: 32px;
+    border-bottom: 4px solid;
+    
+    /* Gambiarra que faz a borda ficar no tamanho da palavra
+        O bloco fica do tamanho do que há dentro do bloco */
+    display: inline-block; 
+    
+    /* borda um pouco abaixo */
+    padding-bottom: 8px; 
+}
+
+.time .colaboradores {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+.input-cor {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
