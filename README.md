@@ -1,6 +1,6 @@
 # Site OrganoV2
 ##  Alura curso: React - como os componentes funcionam
-#### Vercel Pages: https://organo-v2-0.vercel.app/
+#### Vercel Pages: https://organo-v2.vercel.app/
 
 # Getting Started with Create React App
 
